@@ -10,7 +10,7 @@
 <a href="#"><img title="Rudhra" src="https://img.shields.io/badge/Rudhra-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/Prince-Rudh"><img title="Author" src="https://img.shields.io/badge/Author-PrinceRudh/Rudhra?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/OGGYSER"><img title="Author" src="https://img.shields.io/badge/Author-PrinceRudh/Rudhra?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
@@ -117,7 +117,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developer
   <div align="center">
     
-  [![`PrinceRudh`](https://github.com/Prince-Rudh.png?size=200)](https://github.com/Prince-Rudh)
+  [![`OGGYSER`](https://github.com/OGGYSER.png?size=200)](https://github.com/OGGYSER)
 
 [`PrinceRudh`](https://github.com/Prince-Rudh)  
 Base, Bug Fixed Modifiying  as   public | Bug Fixes, Modules
